@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Zad0ya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C++ 
-- 💞️ KNUTE student 💞️
-- 📫 You can find me in 
+KNUTE student, C++ dev 👀 
+📫 Also me
          Discord: Yh#1239
          Telegram: @Zadoyaa
 
