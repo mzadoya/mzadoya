@@ -1,4 +1,4 @@
-KNUTE student, C++ dev👀 
+student, C++ dev👀 
 Also me
          Discord: Yh#1239
          Telegram: @Zadoyaa
