@@ -1,9 +1,9 @@
-# Hello, this is my GitHub profile!
+# Hello, Hallo!
 
 
 ## About Me
 
-Hello! I am Max, and I am a C++ programmer. I hold a bachelor's degree in Computer Science and have experience working on various projects, including game development using the SFML framework.
+Hello! I am Max, and I am a C++ programmer, a third-year university student studying computer science. I have a passion for programming and a strong focus on C++ development. I'm currently honing my skills and gaining experience through various projects.
 
 ## My Skills
 
@@ -11,6 +11,14 @@ Hello! I am Max, and I am a C++ programmer. I hold a bachelor's degree in Comput
 - Game development using the SFML framework
 - Algorithmic thinking
 - Problem-solving-oriented programming
+
+## My Projects 
+
+- Weltrouble Game ([Latest available version](https://github.com/Zad0ya/Weltrouble-BETA.0.2.1))<br>
+This is a game written in the SFML framework for passing a term paper at the university. The project received **the highest score among the group**, which makes the project the best among the others.  
+More information about the functions can be found in the repository.  
+- Exchange Locator (SOON)
+- Keyboard Buttons Test (SOON)
 
 ## Codewars
 
