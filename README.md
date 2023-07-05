@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! My name is Maksym, and I am a C++ programmer. I hold a bachelor's degree in Computer Science and have experience working on various projects, including game development using the SFML framework.
+Hello! I am Max, and I am a C++ programmer. I hold a bachelor's degree in Computer Science and have experience working on various projects, including game development using the SFML framework.
 
 ## My Skills
 
@@ -20,7 +20,6 @@ I am an active participant on Codewars, where I solve various programming challe
 
 ## Contact Information
 
-- Email: [your_email@example.com](mailto:your_email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your_profile)
+- Email: [your_email@example.com](mailto:zadoyamaxim@gmail.com)
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to chat about programming and projects.
