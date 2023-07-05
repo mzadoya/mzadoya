@@ -20,6 +20,6 @@ I am an active participant on Codewars, where I solve various programming challe
 
 ## Contact Information
 
-- Email: [your_email@example.com](mailto:zadoyamaxim@gmail.com)
+- Email: [zadoyamaxim@gmail.com](mailto:zadoyamaxim@gmail.com)
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to chat about programming and projects.
