@@ -16,6 +16,9 @@ Hello! I am Max, and I am a C++ programmer, a third-year university student stud
   - Basics of algorithms and data structures: Knowledge of various algorithms and data structures such as sorting, searching, and linked lists.
   - Debugging and testing: Proficiency in using debugging tools and writing tests to ensure the correctness of the program. <br>
   }
+- Java programming {
+  - Java Basics: Understanding the basic language constructs such as variables, operators, conditional statements, loops, functions, and classes.
+}
 - Experience with the following frameworks = {SFML, Casablanca}
 - Design development in Figma
 
