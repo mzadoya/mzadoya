@@ -36,6 +36,6 @@ I am an active participant on Codewars, where I solve various programming challe
 
 ## Contact Information
 
-- Email: [zadoyamaxim@gmail.com](mailto:zadoyamaxim@gmail.com)
+- Email: [hello@zadoya.dev](mailto:hello@zadoya.dev)
 
 Feel free to reach out to me if you have any questions, suggestions, or just want to chat about programming and projects.
