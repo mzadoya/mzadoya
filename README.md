@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I am Max, and I am a C++ programmer, a third-year university student studying computer science. I have a passion for programming and a strong focus on C++ development. I'm currently honing my skills and gaining experience through various projects.
+Hello! I am Max, and I am a C++ programmer, a university student studying computer science. I have a passion for programming and a strong focus on C++ development. I'm currently honing my skills and gaining experience through various projects.
 
 ## My Skills
 
